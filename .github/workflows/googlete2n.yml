@@ -1,7 +1,6 @@
 name: winten
-on:
-  schedule:
-    - cron: '26 23 * * *' # 
+on: [push, workflow_dispatch]
+
 jobs:
   build:
 
