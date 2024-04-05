@@ -1,4 +1,4 @@
-name: winten
+name: winten2
 on: [push, workflow_dispatch]
 
 jobs:
